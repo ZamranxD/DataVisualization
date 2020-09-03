@@ -1,2 +1,2 @@
 # DataVisualization
-Learning data visualization with Bokeh
+Learning Data Visualization with Bokeh
